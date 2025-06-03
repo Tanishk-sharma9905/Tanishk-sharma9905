@@ -19,7 +19,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanishk_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-sharma-148937288/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dive_in_data_09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTNqrZZZwXMhmXBdLGwHNPgkcRPZpnLTWhsNNZHHdvPtQfNmdstQwbNZrLDNHGNGGzxmSV)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanishk_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-sharma-148937288/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dive_in_data_09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTNqrZZZwXMhmXBdLGwHNPgkcRPZpnLTWhsNNZHHdvPtQfNmdstQwbNZrLDNHGNGGzxmSV)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tanishk-sharma9905&icon=2&color=0)](https://visitcount.itsvg.in)
