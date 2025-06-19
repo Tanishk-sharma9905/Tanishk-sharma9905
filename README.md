@@ -19,7 +19,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanishk_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishk-sharma9905) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dive_in_data_09) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/tanishksharma9905)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sentcompose=CllgCJTNqrZZZwXMhmXBdLGwHNPgkcRPZpnLTWhsNNZHHdvPtQfNmdstQwbNZrLDNHGNGGzxmSV)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanishk_sharma___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishk-sharma9905) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dive_in_data_09) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/tanishksharma9905)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sentcompose=CllgCJTNqrZZZwXMhmXBdLGwHNPgkcRPZpnLTWhsNNZHHdvPtQfNmdstQwbNZrLDNHGNGGzxmSV)
 
 
 ---
